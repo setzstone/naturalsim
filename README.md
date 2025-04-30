@@ -20,6 +20,19 @@ Most simulation arguments assume that advanced civilizations intentionally creat
 
 ### Comparison to Other Simulation Arguments
 
+| Feature / Claim                      | Bostrom (2003) | Digital Physics | Tegmark MUH | Holofractal Cosmology | Natural Simulation Hypothesis (NSH) |
+|-------------------------------------|----------------|------------------|-------------|------------------------|-------------------------------------|
+| Requires advanced civilization      | Yes            | No               | No          | No                     | No                                  |
+| Assumes intent                      | Yes            | No               | No          | No                     | No                                  |
+| Simulation as computation           | Yes            | Yes              | No          | Sometimes              | Not necessarily                     |
+| Compatible with physical emergence  | No             | Partially        | No          | Yes                    | Yes                                 |
+| Observer emergence required         | Yes            | Sometimes        | No          | Yes                    | Yes                                 |
+| Rooted in probabilistic argument    | Yes            | No               | No          | No                     | Yes                                 |
+| Considers recursion / scale         | No             | Sometimes        | No          | Yes                    | Yes                                 |
+| Philosophically ontological         | Somewhat       | Yes              | Yes         | Somewhat               | No                                  |
+| Falsifiable or testable implications| Low            | Low              | Very Low    | Medium                 | Medium to High                      |
+
+
 -   **Bostrom's Simulation Argument (2003)**  
 	-   Claims one of three must be true: civilizations go extinct, they don’t simulate, or we’re in a simulation.  
       -   NSH agrees we may be in a simulation, but posits that such simulations arise without intent—as a natural consequence of emergence.  
