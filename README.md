@@ -1,4 +1,4 @@
-<img src="naturalsim.png" alt="The Natural Simulation Hypothesis" width="1024px" align="center" />
+<img src="natsim.png" alt="The Natural Simulation Hypothesis" width="1024px" align="center" />
 
 # Natural Simulation Hypothesis (NSH)
 
