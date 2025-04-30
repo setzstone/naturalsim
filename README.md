@@ -7,13 +7,13 @@ Most simulation arguments assume that advanced civilizations intentionally creat
 
 ### Core Argument
 
-1.  Emergence is real.  
+**1.  Emergence is real. ** 
 - Complex, self-organizing behavior arises in nature from simple rules (e.g., Conway's Game of Life, fractal growth, weather patterns, evolutionary dynamics).  
-2.  Natural simulations exist.  
+**2.  Natural simulations exist.  **
 - Many physical systems unintentionally simulate lifelike, computational, or conscious-seeming behavior. These include chemical substrates, neural systems, and self-replicating automata.  
-3.  Intentional simulations are rare.  
+**3.  Intentional simulations are rare.  **
 - Few civilizations reach simulation capability. Of those, few run ancestor-style simulations at scale.  
-4.  Natural simulations are common.  
+**4.  Natural simulations are common.  **
 - Nature produces countless self-organizing systems capable of simulation-like complexity across scale. These simulations emerge without design—only boundary conditions and recursion.  
       
 **Therefore:** *If we are in a simulation, it is overwhelmingly more likely to be a naturally occurring emergent system rather than a deliberately constructed one.*
