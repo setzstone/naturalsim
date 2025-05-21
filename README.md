@@ -63,5 +63,5 @@ The NSH places simulation within the laws of physics and recursion—not futuris
 <ul>
 <li>Entropia</li>
 <li>Scale Organization Theory</li>
-<li>Hologenesis</li>
+<li>Hologenetics</li>
 </ul>
