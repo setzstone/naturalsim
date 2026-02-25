@@ -58,10 +58,3 @@ This reframes the simulation debate: not as a question of "who built us," but wh
 > Intent requires emergence. Emergence does not require intent.
 
 The NSH places simulation within the laws of physics and recursion—not futuristic computers or external creators.
-
-<h2>Connected Concepts</h2>
-<ul>
-<li>Entropia</li>
-<li>Scale Organization Theory</li>
-<li>Hologenetics</li>
-</ul>
